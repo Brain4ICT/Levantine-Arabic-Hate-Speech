@@ -1,3 +1,4 @@
+!unzip best-l-model.zip
 import pickle
 import streamlit as st
 import re
